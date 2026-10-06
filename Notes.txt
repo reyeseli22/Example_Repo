@@ -1,3 +1,5 @@
 I am getting really good at creating repo's
 use one '>' to replace txt use  '>>' to add another line
 use up arrows to cycle recent commands
+[main 0d369d0] noted how to cycle recent commands
+ 1 file changed, 1 insertion(+)
