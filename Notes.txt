@@ -1,0 +1,2 @@
+I am getting really good at creating repo's
+use one '>' to replace txt use  '>>' to add another line
